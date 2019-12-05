@@ -34,3 +34,9 @@ ksdjaslkdjslk
 
 ##It goes on and on
 asd
+
+## This will be added to the staging
+askldjaslkdjsak
+
+## THis will be in not staged section
+aksdjaskd
