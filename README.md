@@ -19,17 +19,8 @@ askdjhask ksajd askdj aslkd jasdlkasjdkslj sakdljas
 askdjhask ksajd askdj aslkd jasdlkasjdkslj sakdljas
 askdjhask ksajd askdj aslkd jasdlkasjdkslj sakdljas
 
-
-##This was added after the commit and push to master
-asdkjaslkdjasdkjasdlkasjdlkasjdklasdjlkasdjaskldjaslkdjaskdlasjdklajsdkl
-asdkjaslkdjasdkjasdlkasjdlkasjdklasdjlkasdjaskldjaslkdjaskdlasjdklajsdkl
-asdkjaslkdjasdkjasdlkasjdlkasjdklasdjlkasdjaskldjaslkdjaskdlasjdklajsdkl
-asdkjaslkdjasdkjasdlkasjdlkasjdklasdjlkasdjaskldjaslkdjaskdlasjdklajsdkl
-asdkjaslkdjasdkjasdlkasjdlkasjdklasdjlkasdjaskldjaslkdjaskdlasjdklajsdkl
-asdkjaslkdjasdkjasdlkasjdlkasjdklasdjlkasdjaskldjaslkdjaskdlasjdklajsdkl
-
 ##Further changes
-ksdjaslkdjslk
+some other changes
 
 
 ##It goes on and on
