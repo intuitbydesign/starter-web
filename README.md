@@ -43,3 +43,6 @@ aksdjaskd
 
 
 Copyrtighert 
+
+
+some shit to add while branch is actove
